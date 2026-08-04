@@ -1,0 +1,16 @@
+Debug/
+Release/
+
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+*.launch
+.osx.project
+.DS_Store
